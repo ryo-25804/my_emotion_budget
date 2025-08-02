@@ -12,3 +12,6 @@ Flutter製の大学生向け家計簿アプリ。
 ## 開発環境
 - Flutter 3.x
 - VS Code + GitHub Desktop
+
+##サイトページ
+https://ryo-25804.github.io/my_emotion_budget/
